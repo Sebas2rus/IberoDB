@@ -1,0 +1,59 @@
+
+
+[
+  {
+    "_id": ObjectId("637204077323517023720701"),
+    "nombre": "Juan Pérez",
+    "apellido": "Gómez",
+    "nacionalidad": "Colombia",
+    "fechaNacimiento": ISODate("2000-01-01T00:00:00Z"),
+    "genero": "Masculino",
+    "categoria": "Élite",
+    "equipo": ObjectId("637204077323517023720702"),
+    "entrenador": ObjectId("637204077323517023720703")
+  },
+  {
+    "_id": ObjectId("637204077323517023720704"),
+    "nombre": "María Rodríguez",
+    "apellido": "López",
+    "nacionalidad": "España",
+    "fechaNacimiento": ISODate("1995-12-31T00:00:00Z"),
+    "genero": "Femenino",
+    "categoria": "Edad 30-39",
+    "equipo": null,
+    "entrenador": ObjectId("637204077323517023720703")
+  },
+  {
+    "_id": ObjectId("637204077323517023720705"),
+    "nombre": "Carlos Martínez",
+    "apellido": "Silva",
+    "nacionalidad": "Argentina",
+    "fechaNacimiento": ISODate("2005-01-01T00:00:00Z"),
+    "genero": "Masculino",
+    "categoria": "Juvenil",
+    "equipo": ObjectId("637204077323517023720702"),
+    "entrenador": null
+  },
+  {
+    "_id": ObjectId("637204077323517023720706"),
+    "nombre": "Ana Sánchez",
+    "apellido": "García",
+    "nacionalidad": "México",
+    "fechaNacimiento": ISODate("1990-08-02T00:00:00Z"),
+    "genero": "Femenino",
+    "categoria": "Élite",
+    "equipo": null,
+    "entrenador": ObjectId("637204077323517023720703")
+  },
+  {
+    "_id": ObjectId("637204077323517023720707"),
+    "nombre": "Pedro González",
+    "apellido": "Díaz",
+    "nacionalidad": "Chile",
+    "fechaNacimiento": ISODate("2002-05-15T00:00:00Z"),
+    "genero": "Masculino",
+    "categoria": "Juvenil",
+    "equipo": ObjectId("637204077323517023720702"),
+    "entrenador": null
+  }
+]
