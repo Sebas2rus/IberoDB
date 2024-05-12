@@ -1,0 +1,57 @@
+[
+  {
+    "_id": ObjectId("637204077323517023720702"),
+    "nombre": "Triatlón Team Colombia",
+    "pais": "Colombia",
+    "entrenador": ObjectId("637204077323517023720703"),
+    "deportistas": [
+      ObjectId("637204077323517023720701"),
+      ObjectId("637204077323517023720705"),
+      ObjectId("637204077323517023720707")
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720708"),
+    "nombre": "Triatlón España Élite",
+    "pais": "España",
+    "entrenador": ObjectId("637204077323517023720710"),
+    "deportistas": [
+      ObjectId("637204077323517023720704"),
+      ObjectId("637204077323517023720706"),
+      ObjectId("637204077323517023720709")
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720711"),
+    "nombre": "Triatlón Argentina Juvenil",
+    "pais": "Argentina",
+    "entrenador": ObjectId("637204077323517023720712"),
+    "deportistas": [
+      ObjectId("637204077323517023720713"),
+      ObjectId("637204077323517023720714"),
+      ObjectId("637204077323517023720715")
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720716"),
+    "nombre": "Triatlón México Femenino",
+    "pais": "México",
+    "entrenador": ObjectId("637204077323517023720717"),
+    "deportistas": [
+      ObjectId("637204077323517023720718"),
+      ObjectId("637204077323517023720719"),
+      ObjectId("637204077323517023720720")
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720721"),
+    "nombre": "Triatlón Chile Juvenil Mixto",
+    "pais": "Chile",
+    "entrenador": ObjectId("637204077323517023720722"),
+    "deportistas": [
+      ObjectId("637204077323517023720723"),
+      ObjectId("637204077323517023720724"),
+      ObjectId("637204077323517023720725")
+    ]
+  }
+]
