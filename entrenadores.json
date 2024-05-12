@@ -1,0 +1,37 @@
+[
+  {
+    "_id": ObjectId("637204077323517023720703"),
+    "nombre": "Ana Ramírez",
+    "apellido": "Pérez",
+    "nacionalidad": "Colombia",
+    "especialidad": "Natación y Ciclismo"
+  },
+  {
+    "_id": ObjectId("637204077323517023720710"),
+    "nombre": "José García",
+    "apellido": "Fernández",
+    "nacionalidad": "España",
+    "especialidad": "Carrera"
+  },
+  {
+    "_id": ObjectId("637204077323517023720712"),
+    "nombre": "María González",
+    "apellido": "López",
+    "nacionalidad": "Argentina",
+    "especialidad": "Natación y Carrera"
+  },
+  {
+    "_id": ObjectId("637204077323517023720717"),
+    "nombre": "Pedro Sánchez",
+    "apellido": "Martínez",
+    "nacionalidad": "México",
+    "especialidad": "Ciclismo"
+  },
+  {
+    "_id": ObjectId("637204077323517023720722"),
+    "nombre": "Carlos Díaz",
+    "apellido": "Gómez",
+    "nacionalidad": "Chile",
+    "especialidad": "Natación, Ciclismo y Carrera"
+  }
+]
