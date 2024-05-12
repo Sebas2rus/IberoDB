@@ -1,0 +1,71 @@
+[
+  {
+    "_id": ObjectId("637204077323517023720736"),
+    "fecha": ISODate("2024-05-18T18:00:00Z"),
+    "categoria": "Élite",
+    "clasificacion": [
+      {
+        "posicion": 1,
+        "deportista": ObjectId("637204077323517023720701"),
+        "tiempoTotal": 7720.46
+      },
+      {
+        "posicion": 2,
+        "deportista": ObjectId("637204077323517023720704"),
+        "tiempoTotal": 7819.12
+      },
+      {
+        "posicion": 3,
+        "deportista": ObjectId("637204077323517023720706"),
+        "tiempoTotal": 7982.18
+      },
+      // ... (agregar más deportistas)
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720737"),
+    "fecha": ISODate("2024-05-19T10:00:00Z"),
+    "categoria": "Edad 30-39",
+    "clasificacion": [
+      {
+        "posicion": 1,
+        "deportista": ObjectId("637204077323517023720709"),
+        "tiempoTotal": 8240.54
+      },
+      {
+        "posicion": 2,
+        "deportista": ObjectId("637204077323517023720718"),
+        "tiempoTotal": 8367.92
+      },
+      {
+        "posicion": 3,
+        "deportista": ObjectId("637204077323517023720719"),
+        "tiempoTotal": 8495.30
+      },
+      // ... (agregar más deportistas)
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720738"),
+    "fecha": ISODate("2024-05-19T13:00:00Z"),
+    "categoria": "Juvenil",
+    "clasificacion": [
+      {
+        "posicion": 1,
+        "deportista": ObjectId("637204077323517023720713"),
+        "tiempoTotal": 6852.12
+      },
+      {
+        "posicion": 2,
+        "deportista": ObjectId("637204077323517023720714"),
+        "tiempoTotal": 6979.46
+      },
+      {
+        "posicion": 3,
+        "deportista": ObjectId("637204077323517023720715"),
+        "tiempoTotal": 7106.80
+      },
+      // ... (agregar más deportistas)
+    ]
+  }
+]
