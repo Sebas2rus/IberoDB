@@ -1,0 +1,70 @@
+[
+  {
+    "_id": ObjectId("637204077323517023720726"),
+    "fecha": ISODate("2024-05-18T10:00:00Z"),
+    "lugar": "Piscina Olímpica Municipal",
+    "categoria": "Élite",
+    "etapa": "Natación",
+    "deportistas": [
+      ObjectId("637204077323517023720701"),
+      ObjectId("637204077323517023720704"),
+      ObjectId("637204077323517023720706"),
+      // ... (agregar más deportistas)
+    ],
+    "resultados": [
+      {
+        "deportista": ObjectId("637204077323517023720701"),
+        "tiempo": 540.12
+      },
+      {
+        "deportista": ObjectId("637204077323517023720704"),
+        "tiempo": 552.34
+      },
+      {
+        "deportista": ObjectId("637204077323517023720706"),
+        "tiempo": 568.76
+      },
+      // ... (agregar más resultados)
+    ],
+    "árbitros": [
+      ObjectId("637204077323517023720727"),
+      ObjectId("637204077323517023720728")
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720729"),
+    "fecha": ISODate("2024-05-18T13:00:00Z"),
+    "lugar": "Ruta Ciclística Montaña",
+    "categoria": "Élite",
+    "etapa": "Ciclismo",
+    "deportistas": [
+      ObjectId("637204077323517023720701"),
+      ObjectId("637204077323517023720704"),
+      ObjectId("637204077323517023720706"),
+      // ... (agregar más deportistas)
+    ],
+    "resultados": [
+      {
+        "deportista": ObjectId("637204077323517023720701"),
+        "tiempo": 1820.34
+      },
+      {
+        "deportista": ObjectId("637204077323517023720704"),
+        "tiempo": 1856.78
+      },
+      {
+        "deportista": ObjectId("637204077323517023720706"),
+        "tiempo": 1903.22
+      },
+      // ... (agregar más resultados)
+    ],
+    "árbitros": [
+      ObjectId("637204077323517023720729"),
+      ObjectId("637204077323517023720730")
+    ]
+  },
+  {
+    "_id": ObjectId("637204077323517023720731"),
+    "fecha": ISODate("2024-05-18T16:00:00Z"),
+    "lugar": "Parque Metropolitano",
+    "categoria": "Élite
